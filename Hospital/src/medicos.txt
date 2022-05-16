@@ -1,0 +1,12 @@
+Nome,idade,tipo,cpf,senha
+Andressa,18,Cirurgia,1,123
+Carlos,18,Cardiologista,2,321
+Victor,19,Clinico geral,3,231
+Ricardo,16,Dermatologista,4,213
+Jean,17,Ginecologista,5,312
+Izadora,17,Pediatra,6,1234
+Italo,17,Infectologista,7,4321
+Francisca,30,Nefrotologista,8,2134
+Luiza,17,Oftamologista,9,2143
+Paulina,18,Oftamologista,10,4231
+

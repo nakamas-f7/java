@@ -1,0 +1,11 @@
+Nome,idade,cpf,senha
+Angela,18,11,2431
+Maria,17,12,4213
+Carolina,17,13,1342
+Wanne,17,14,4432
+Alícia,17,15,4322
+Letícia,17,16,2213
+Marcos,19,17,1144
+Allan,25,18,3321
+Luffy,19,19,4334
+Sanji,20,20,4444
